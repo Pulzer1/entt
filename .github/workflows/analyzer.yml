@@ -3,8 +3,7 @@ name: analyzer
 on:
   push:
     branches:
-      - master
-      - wip
+      - iwyu
 
 jobs:
 
